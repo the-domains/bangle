@@ -1,0 +1,28 @@
+name: Bangle
+favicon: null
+layout_spectrum: 0.4922925727441907
+typography_spectrum: 0.8092848765663803
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.46095596672967076
+  lightness: 0.20088753360323608
+  saturation: 0.028528950875625014
+  rhythmicContrast: 0.24701450648717582
+purpose: []
