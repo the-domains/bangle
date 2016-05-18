@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Bangle]]></title>
-        <description><![CDATA[Bangle]]></description>
+        <title><![CDATA[BangleYardGame]]></title>
+        <description><![CDATA[BangleYardGame]]></description>
         <link>https://thegrid.ai/bangle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 09:51:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 10:08:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bangle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72accc11-4c10-4825-9d79-4387eeaf6492.gif">]]></description>
             <link>https://thegrid.ai/bangle/2e2d3a74-6602-43d1-a0f5-cd982548dc7b/index.html</link>
             <guid isPermaLink="false">2e2d3a74-6602-43d1-a0f5-cd982548dc7b</guid>
-            <pubDate>Wed, 18 May 2016 09:51:13 GMT</pubDate>
+            <pubDate>Wed, 18 May 2016 10:08:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
